@@ -1,0 +1,22 @@
+{
+  "name": "unittests_in_js",
+  "version": "1.0.0",
+  "description": "Unnittests in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hezekiah-Elisha/alx-backend-javascript.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Hezekiah Elisha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hezekiah-Elisha/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/Hezekiah-Elisha/alx-backend-javascript#readme"
+}
